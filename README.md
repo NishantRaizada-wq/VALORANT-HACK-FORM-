@@ -11,11 +11,11 @@ Demo By Nishant Raizada
 ```Why use it?
 Great tool designed to register for any kind of Hack required first register and then get a hack.   
 Features
-* Provides Hack for the games after registering. 
-* User data will get saved in firebase database.
-Built With
-* CSS
-* Firebase database
++* Provides Hack for the games after registering. 
++* User data will get saved in firebase database.
++Built With
++* CSS
++* Firebase database
 * HTML
 Screenshot
  

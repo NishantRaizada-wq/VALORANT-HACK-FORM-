@@ -6,10 +6,10 @@
 
 Valorant hack form with Assasins creed background and sign in and sign up button 
 
-Demo By Nishant Raizada
+ Demo By Nishant Raizada
 
-```Why use it?
-Great tool designed to register for any kind of Hack required first register and then get a hack.   
+~~~Why use it?
+- Great tool designed to register for any kind of Hack required first register and then get a hack.   
 Features
 + * Provides Hack for the games after registering. 
 + * User data will get saved in firebase database.
@@ -18,9 +18,9 @@ Features
 + * Firebase database
 * HTML
 Screenshot
- 
+ ~~~
 Contributing
-Any kind of contributions are welcome.
+@@ Any kind of contributions are welcome. @@
 1. Fork the repo on GitHub.
 2. Clone the project to your own machine.
 3. Commit changes to development branch.

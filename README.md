@@ -18,8 +18,8 @@ Built With
 * Firebase database
 * HTML
 Screenshot
- ```
-Contributing```
+ 
+Contributing
 Any kind of contributions are welcome.
 1. Fork the repo on GitHub.
 2. Clone the project to your own machine.

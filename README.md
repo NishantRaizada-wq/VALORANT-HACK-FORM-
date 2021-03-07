@@ -8,7 +8,7 @@ Valorant hack form with Assasins creed background and sign in and sign up button
 
  Demo By Nishant Raizada
 
-~~~Why use it?
+~~Why use it?
 - Great tool designed to register for any kind of Hack required first register and then get a hack.   
 Features
 + * Provides Hack for the games after registering. 
